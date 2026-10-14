@@ -38,7 +38,7 @@ La tabla `inscripciones` permite implementar la relación muchos a muchos (N:M) 
 
 ### Diagrama EER
 
-![Diagrama EER](Bloque-1-MySQL/capturas/diagrama_eer.png)
+![Diagrama EER](capturas/diagrama_eer.png)
 
 ## Implementación en Clever Cloud
 
